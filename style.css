@@ -116,3 +116,11 @@ footer .copyright {
     display: block;
     font-size: 0.9em;
 }
+
+img {
+    border-radius: 100%;
+}
+
+hr {
+    background-color:#b8e6d3 ;
+}
