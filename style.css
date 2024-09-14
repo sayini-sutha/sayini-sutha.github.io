@@ -106,3 +106,9 @@ img {
 footer {
     margin-bottom: 1px;
 }
+
+#aside {
+    padding: 32px;
+    background-color: darkorange;
+    grid-area: menu;
+}
