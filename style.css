@@ -112,7 +112,7 @@ footer {
     width: 12vw;
 }
 
-footer > .copyright {
+footer .copyright {
     display: block;
     font-size: 0.9em;
 }
