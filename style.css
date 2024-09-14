@@ -110,8 +110,7 @@ footer {
     width: 12vw;
 }
 
-img {
-    width: 20px;
-    height: 20px;
+footer .copyright {
+    display: block;
+    font-size: 0.9em;
 }
-
