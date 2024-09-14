@@ -107,5 +107,11 @@ footer {
 #aside {
     padding: 32px;
     background-color: #24a670;
-    width: 10vw;
+    width: 13vw;
+}
+
+image {
+    width: 20px;
+    height: 20px;
+    align-items: center;
 }
