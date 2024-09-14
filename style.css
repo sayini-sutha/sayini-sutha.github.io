@@ -86,10 +86,6 @@ body > footer {
     display: flex;
 }
 
-img {
-    border-radius: 20%;
-}
-
 #footer-ul {
     display: flex;
     list-style: none;
@@ -111,5 +107,5 @@ footer {
 #aside {
     padding: 32px;
     background-color: #24a670;
-    width: 15vw;
+    width: 10vw;
 }
