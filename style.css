@@ -102,6 +102,8 @@ body > footer {
 
 footer {
     margin-bottom: 1px;
+    text-align: center;
+    padding: 20px;
 }
 
 #aside {
@@ -110,7 +112,7 @@ footer {
     width: 12vw;
 }
 
-footer .copyright {
+footer > .copyright {
     display: block;
     font-size: 0.9em;
 }
