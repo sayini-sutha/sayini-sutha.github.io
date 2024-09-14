@@ -46,7 +46,6 @@ body > header > nav > ul {
 
 .navbutton{
     color: white;
-    <!-- this is the font colour for the nav bar e.g.home, about --> 
     text-decoration: none;
     padding: 12px;
     border: 1px solid white;
